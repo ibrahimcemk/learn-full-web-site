@@ -5,13 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tablo Etiketleri</title>
     <style>
-      th {
+      table{
+        width: 100%;
+      }
+      table,th,td{
+        border:1px solid red;
+      }
+      th{
         text-align: left;
+      }
+      th,td{
+        padding: 16px;
+      }
+
+      .tab2{
+        margin-top: 15px;
+      }
+
+      td:hover{
+        color: yellow;
+        background-color: #9b0000;
+      }
+      th:hover{
+        color: yellow;
+        background-color: #9b0000;
       }
     </style>
   </head>
   <body>
-    <table style="width: 100%">
+    <table style=" margin: 10px; height: 300px; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif;" >
+      <caption>1.Tablo Listesi</caption>
+<!-- caption etiketilye birlikte tablomuzun başlığını verebiliriz. table etiketinden hemen sonra kullanmamız doğru olur. -->
+ <!-- caption özelliğini kullandığımızda caption etiketine css'de " display: table-caption; text-align: -webkit-center; " özelliği tanımlanır -->
+
       <!-- tablomuzda içerik oluşturduğımızı belirlemek için table etiketini kullanırız ve sonrasında diğer kullandığımız başlık ve içerik etiketlerini tr ile sararız. -->
       <tr>
         <!-- tabloda başlık için th etiketini kullanırız -->
@@ -31,8 +57,33 @@
         <td>Tuncer</td>
         <td>Bilinmiyor?_</td>
       </tr>
-      <!-- veri içeriğini td'ye yazarız. Ek olarak ilk başta th etiketine ne denk geliyorsa onu yazmamız gerekiyor.
- yani 1.th etiketinde isim ne ise td'ye onu yazmamız gerekiyor -->
     </table>
+      <!-- veri içeriğini td'ye yazarız. Ek olarak ilk başta th etiketine ne denk geliyorsa onu yazmamız gerekiyor.Yani 1.th etiketinde isim ne ise td'ye onu yazmamız gerekiyor -->
+
+
+       <table style= "height: 300px; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif;" class="tab2" >
+        <caption>2.Tablo Listesi</caption>
+      <tr>
+        <!-- tabloda başlık için th etiketini kullanırız -->
+        <th>İsim</th>
+        <th>Soyad</th>
+        <th>Yaş</th>
+      </tr>
+
+      <tr>
+        <td>İbrahim Cem</td>
+        <td colspan="2">Keleş</td>
+        <!-- burada yaşı sildiğimiz zaman, yaş kısmı boş kalıyor ve bu kısımda colspan'da "2" etiketini kullandığımızda 2 birimlik alan kullanırız.
+         ve belirttiğimiz kısım 2 birimlik yer kaplayarak eksik kısımları düzeltir. -->
+      </tr>
+
+      <tr>
+        <td>Mahmut</td>
+        <td>Tuncer</td>
+        <td>Bilinmiyor?_</td>
+      </tr>
+    </table>
+
+     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   </body>
 </html>
