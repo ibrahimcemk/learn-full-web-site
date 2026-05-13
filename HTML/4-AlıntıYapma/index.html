@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alıntı Yapma</title>
+</head>
+<body> 
+    <p>İbrahim Cem Keleş: <q>Yemek Yerseniz, yemek yemiş olursunuz...</q></p>
+
+    <!-- html'de q etiketiyle yazdığımız yerin css tarafına başlangıçta " q::before {content: open-quote;} "verir,
+     bitişinde ise " q::after {content: close-quote;} " verir-->
+
+     <blockquote>bu bir yazı içeriğidir</blockquote>
+     <!-- blockquote etikesinde ise default "tanımlanmış olarak" bize css'de ilk olarak display:block; değeri veriliyor.
+       Sonrasında ise hem içeriden hem de dışarıdan olacak şekilde belirli bir margin değeri veriliyor. -->
+ 
+       <!-- mini bir footer örneği -->
+       <footer><address>İbrahim Cem <br> www.ibrahimcem.keles.com</address></footer>
+</body>
+</html>
