@@ -29,3 +29,15 @@ https://ibrahimcemk.github.io/learn-full-web-site/HTML/6-ResimEtiketleri/
 7.Proje
 
 https://ibrahimcemk.github.io/learn-full-web-site/HTML/7-Tablo%20Etiketleri/
+
+8.Proje
+
+https://ibrahimcemk.github.io/learn-full-web-site/HTML/8-Listeler/
+
+9.Proje
+
+https://ibrahimcemk.github.io/learn-full-web-site/HTML/9-HtmlBlock_Inline_Etiketler/
+
+10.Proje
+
+https://ibrahimcemk.github.io/learn-full-web-site/HTML/10-divEtiketi/
