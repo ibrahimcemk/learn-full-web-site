@@ -29,6 +29,7 @@ Bu repo, web geliştirme öğrenme sürecimde oluşturduğum HTML, CSS ve ilerle
 ## CSS Projeleri
 
 * [1. Proje - Inline CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS/1-inlineCSS/)
+* [2. Proje - Internal CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS/2-internalCSS/)
 
 ---
 
