@@ -1,0 +1,8 @@
+Mini Bilgilendirme:
+
+- css'i kodun içinde "etiketin hemen yanına" yazarsak, inline css oluyor.
+
+- html dosyasının içinde <head></head> etiketinin içine yazarsak internal css oluyor.
+
+- harici bir css dosyasının "örnek; style.css" içine yazarsak external css oluyor. 
+
