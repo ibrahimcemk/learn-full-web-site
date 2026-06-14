@@ -2,6 +2,8 @@
 
 **İlgili Bulunan kodları Can Boz Komple Uygulamalı Web Geliştirme Eğitimi Projesini İzleyerek Ve Uygulayarak Geliştirmekteyim.**
 
+**HTML**
+
 1.Proje
 
 https://ibrahimcemk.github.io/learn-full-web-site/HTML/1-BaslikEtiketleri/
@@ -45,4 +47,11 @@ https://ibrahimcemk.github.io/learn-full-web-site/HTML/10-divEtiketi/
 11.Proje
 
 https://ibrahimcemk.github.io/learn-full-web-site/HTML/11-FormEtiketi/
+
+
+**CSS**
+
+1.Proje
+
+https://ibrahimcemk.github.io/learn-full-web-site/CSS/1-inlineCSS/
 
