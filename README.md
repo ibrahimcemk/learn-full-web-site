@@ -1,57 +1,60 @@
-﻿# learn-full-web-site
+# 🚀 Learn Full Web Site
 
 **İlgili Bulunan kodları Can Boz Komple Uygulamalı Web Geliştirme Eğitimi Projesini İzleyerek Ve Uygulayarak Geliştirmekteyim.**
 
-**HTML**
+Bu repo, web geliştirme öğrenme sürecimde oluşturduğum HTML, CSS ve ilerleyen aşamalarda eklenecek diğer teknolojilere ait uygulamaları içermektedir.
 
-1.Proje
+---
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/1-BaslikEtiketleri/
+# 📚 HTML
 
-2.Proje
+## HTML Projeleri
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/2-BaslikVeDivEtiketleri/
+* [1. Proje - Başlık Etiketleri](https://ibrahimcemk.github.io/learn-full-web-site/HTML/1-BaslikEtiketleri/)
+* [2. Proje - Başlık ve Div Etiketleri](https://ibrahimcemk.github.io/learn-full-web-site/HTML/2-BaslikVeDivEtiketleri/)
+* [3. Proje - Yazı Etiketleri](https://ibrahimcemk.github.io/learn-full-web-site/HTML/3-Yaz%C4%B1Etiketleri/)
+* [4. Proje - Alıntı Yapma](https://ibrahimcemk.github.io/learn-full-web-site/HTML/4-Al%C4%B1nt%C4%B1Yapma/)
+* [5. Proje - Renk Verme](https://ibrahimcemk.github.io/learn-full-web-site/HTML/5-RenkVerme/)
+* [6. Proje - Resim Etiketleri](https://ibrahimcemk.github.io/learn-full-web-site/HTML/6-ResimEtiketleri/)
+* [7. Proje - Tablo Etiketleri](https://ibrahimcemk.github.io/learn-full-web-site/HTML/7-Tablo%20Etiketleri/)
+* [8. Proje - Listeler](https://ibrahimcemk.github.io/learn-full-web-site/HTML/8-Listeler/)
+* [9. Proje - HTML Block & Inline Etiketler](https://ibrahimcemk.github.io/learn-full-web-site/HTML/9-HtmlBlock_Inline_Etiketler/)
+* [10. Proje - Div Etiketi](https://ibrahimcemk.github.io/learn-full-web-site/HTML/10-divEtiketi/)
+* [11. Proje - Form Etiketi](https://ibrahimcemk.github.io/learn-full-web-site/HTML/11-FormEtiketi/)
 
-3.Proje
+---
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/3-Yaz%C4%B1Etiketleri/
+# 🎨 CSS
 
-4.Proje
+## CSS Projeleri
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/4-Al%C4%B1nt%C4%B1Yapma/
+* [1. Proje - Inline CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS/1-inlineCSS/)
 
-5.Proje
+---
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/5-RenkVerme/
+# 🛠️ Kullanılan Teknolojiler
 
-6.Proje
+* HTML5
+* CSS3
+* Git
+* GitHub
+* GitHub Pages
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/6-ResimEtiketleri/
+---
 
-7.Proje
+# 📈 İlerleme Durumu
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/7-Tablo%20Etiketleri/
+* ✅ HTML
+* 🔄 CSS
+* ⏳ JavaScript
+* ⏳ Bootstrap
+* ⏳ React
+* ⏳ Node.js
+* ⏳ Veritabanları
+* ⏳ Full Stack Web Geliştirme
 
-8.Proje
+---
 
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/8-Listeler/
+# 📌 Not
 
-9.Proje
-
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/9-HtmlBlock_Inline_Etiketler/
-
-10.Proje
-
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/10-divEtiketi/
-
-11.Proje
-
-https://ibrahimcemk.github.io/learn-full-web-site/HTML/11-FormEtiketi/
-
-
-**CSS**
-
-1.Proje
-
-https://ibrahimcemk.github.io/learn-full-web-site/CSS/1-inlineCSS/
-
+Bu projeler eğitim amaçlı hazırlanmıştır ve öğrenme sürecimin bir parçasıdır. Yeni projeler ve konular öğrenildikçe bu repo düzenli olarak güncellenecektir.
