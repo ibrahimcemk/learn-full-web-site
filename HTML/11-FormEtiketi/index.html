@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Etiketi</title>
+    <style>
+        form{
+            
+            width: 200px; height: auto;
+            color: aqua;
+            background: #850000;
+        }
+        label{
+            display: flex;
+            margin-top: 1px;
+        }
+        input{
+            margin-top: 7px;
+        }
+    </style>
+  </head>
+  <body>
+    
+    <form>
+      <!-- genelde label input'un hemen önünde yer alır -->
+      <label>Ad</label>
+      <input type="text" name="ad" value="" />
+      <label>Soyad</label>
+      <input type="text" name="soyad" value="" />
+      <label>Telefon Numarası</label>
+      <input type="number" name="tel" value="" />
+      <br>
+      <label>E-Postanızı Giriniz!</label>
+      <input type="email" name="email" value="" />
+        <label>Doğum Tarihinizi Giriniz!</label>
+      <input type="date" name="dtarih" value="" />
+      <input type="submit" value="Gönder!" />
+    </form>
+ 
+
+    <form>
+          <input type="radio" name="cinsiyet" value="erkek">
+          <label>Erkek</label>
+          <input type="radio" name="cinsiyet" value="kadın">
+          <label>kadın</label>
+    </form>
+<!-- radio'da 1 tane seçenek seçebiliyorken, checkbox'da 1'den fazla seçeneği seçebiliyoruz. -->
+     <form>
+          <input type="checkbox" name="şehir" value="istanbul">
+          <label>istanbul</label>
+          <input type="checkbox" name="şehir" value="ankara">
+          <label>ankara</label>
+    </form>
+  </body>
+</html>
