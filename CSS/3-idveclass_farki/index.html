@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>id ve class farkı</title>
+    <style>
+        body{background-position-x: 290px;
+            background-repeat: no-repeat;
+            background-color: darkred;
+            background-image: url(/CSS/3-idveclass_farki/img/cakma-sunger-01.png) ;
+        }
+      #anaBaslik {
+        color: white;
+        background: #5a0101;
+      }
+
+      .pyazi{
+        color: white;
+        background: #256600;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="anaBaslik">id ve class farkı</h1>
+    <p class="pyazi">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
+      quaerat! Laudantium adipisci possimus doloremque quod quisquam totam
+      soluta dignissimos repellendus. Nisi minus earum accusamus, impedit
+      blanditiis consectetur ratione et omnis? Nihil incidunt iure dicta ducimus
+      at quia architecto porro, dolorem explicabo odio obcaecati minima? Iste
+      quaerat unde consequatur vitae doloremque quo sit temporibus, similique
+      cumque placeat eos dolor ipsa repudiandae. Dolores eum ipsa eaque facere
+      architecto, temporibus iusto impedit. Delectus incidunt veritatis odit
+      nemo voluptates sequi porro, dignissimos nobis praesentium sit iure ea.
+      Vero inventore atque a cum, doloremque in! Totam tempora debitis similique
+      consequuntur? Dolor architecto, ut, placeat dolorum beatae reiciendis
+      illum nobis, exercitationem eaque minus cupiditate animi laudantium omnis
+      natus porro obcaecati voluptatem! Saepe laborum sunt doloremque corrupti!
+    </p>
+    <hr />
+    <p class="pyazi">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
+      quaerat! Laudantium adipisci possimus doloremque quod quisquam totam
+      soluta dignissimos repellendus. Nisi minus earum accusamus, impedit
+      blanditiis consectetur ratione et omnis? Nihil incidunt iure dicta ducimus
+      at quia architecto porro, dolorem explicabo odio obcaecati minima? Iste
+      quaerat unde consequatur vitae doloremque quo sit temporibus, similique
+      cumque placeat eos dolor ipsa repudiandae. Dolores eum ipsa eaque facere
+      architecto, temporibus iusto impedit. Delectus incidunt veritatis odit
+      nemo voluptates sequi porro, dignissimos nobis praesentium sit iure ea.
+      Vero inventore atque a cum, doloremque in! Totam tempora debitis similique
+      consequuntur? Dolor architecto, ut, placeat dolorum beatae reiciendis
+      illum nobis, exercitationem eaque minus cupiditate animi laudantium omnis
+      natus porro obcaecati voluptatem! Saepe laborum sunt doloremque corrupti!
+    </p>
+
+    <!-- id'yi sadece tek bir elemanı seçmek "css vermek" için kullanırız. -->
+    <!-- etiket verirken camel case yapısına uymamız işimize yaramaktadır.  -->
+    <!--
+Camel Case, birden fazla kelimenin birleşerek yazıldığı isimlendirme yöntemidir.
+İlk kelime küçük harfle başlar, sonraki kelimelerin ilk harfi büyük yazılır.
+
+Örnekler:
+telefonNumarasi
+kullaniciAdi
+arkaPlan
+soyAdi
+
+Web geliştirmede genellikle JavaScript değişkenleri ve fonksiyonlarında kullanırız.
+-->
+    <!-- ekstra olarak ad verirken türkçe karakter kullanmamaya özen göstermeliyiz. -->
+
+    <!-- id etiketini kullanırken verdiğimiz id değerini css'de başına # "sharp" işaretini koyarak yazarız.
+ mesela h1 de deneme id'sini verdiysek css'de #deneme{} şeklinde yazarız. -->
+
+ <!-- id'yi iki farklı etiket'e verebiliriz lakin, yazı biçimi olarak tam oturaklı olmaz.
+  birden fazla etikete stil vermek için class yapısını tercih edebiliriz. class yapısında ise sharp "#"
+  işareti yerine . "nokta" kullanırız. örneğin h1'in class'ı deneme ise css'de .deneme{} olarak başlarız. -->
+  </body>
+</html>
