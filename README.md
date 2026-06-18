@@ -18,12 +18,6 @@ HTML, CSS ve ilerleyen süreçte JavaScript, Bootstrap, React ve backend teknolo
 
 ---
 
-## 🖥️ Proje Önizleme
-
-![preview](https://raw.githubusercontent.com/ibrahimcemk/learn-full-web-site/main/preview.png)
-
----
-
 # 📚 HTML PROJELERİ
 
 ## 🧩 HTML Öğrenme Modülleri
