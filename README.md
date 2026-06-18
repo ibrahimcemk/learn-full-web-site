@@ -30,7 +30,7 @@ Bu repo, web geliştirme öğrenme sürecimde oluşturduğum HTML, CSS ve ilerle
 
 * [1. Proje - Inline CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS/1-inlineCSS/)
 * [2. Proje - Internal CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS/2-internalCSS/)
-* [3. Proje - Internal CSS](https://ibrahimcemk.github.io/learn-full-web-site/CSS//3-idveclass_farki/)
+* [3. Proje - id ve class farkı](https://ibrahimcemk.github.io/learn-full-web-site/CSS//3-idveclass_farki/)
 
 ---
 
